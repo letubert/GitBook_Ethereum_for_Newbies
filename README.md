@@ -1,4 +1,4 @@
-# **Ethereum - Getting Started for Newbies \(by**[**Thetta.io**](https://web.thetta.io) **microcompany tokenization platform\)**
+# **Ethereum - Getting Started for Newbies \(by** [**Thetta.io**](https://web.thetta.io) **microcompany tokenization platform\)**
 
 **Ethereum - smart contracts run on top of Ethereum Virtual Machine. Each state change is “saved” to the blockchain, but not to the memory of the single computer.**
 
