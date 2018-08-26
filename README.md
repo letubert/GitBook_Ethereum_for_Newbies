@@ -139,7 +139,7 @@ PoS - [https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ](https://github.
 
 3. **What if you specified low gaslimit value?**
 
-4. **call vs send? What can be called in thefallback functionof the contract?    
+4. **call vs send? What can be called in the fallback functionof the contract?    
    **[**http://ethereum.stackexchange.com/questions/765/what-is-the-difference-between-a-transaction-and-a-call    
    **](http://ethereum.stackexchange.com/questions/765/what-is-the-difference-between-a-transaction-and-a-call)[**http://ethereum.stackexchange.com/questions/6470/send-vs-call-differences-and-when-to-use-and-when-not-to-use**](http://ethereum.stackexchange.com/questions/6470/send-vs-call-differences-and-when-to-use-and-when-not-to-use)
 
